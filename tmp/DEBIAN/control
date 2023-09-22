@@ -1,0 +1,9 @@
+Package: repo
+Name: Repo Sileo
+Version: 1.1
+Author: Hoa Huynh
+Maintainer: Hoa Huynh
+Description: Repo support sileo
+Architecture: iphoneos-arm
+Section: Packaging
+
